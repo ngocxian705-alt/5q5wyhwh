@@ -597,7 +597,7 @@ async def MaiiiinE():
         timeout=aiohttp.ClientTimeout(total=20),
         connector=aiohttp.TCPConnector(limit=20, limit_per_host=10)
     )
-    Uid, Pw = '4348628062', '3456789_CH4UQ_BY_SPIDEERIO_GAMING_FIW2W'
+    Uid, Pw = '4565450573', '5q578i_UNJ4U_BY_SPIDEERIO_GAMING_65VJE'
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
         print("ErroR - InvaLid AccounT")
